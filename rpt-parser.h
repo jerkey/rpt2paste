@@ -13,6 +13,7 @@
 class ParseEventReceiver {
 public:
     virtual void StartComponent(const std::string &name) = 0;  // 'module' in french.
+    virtual void Value(const std::string &name) =  0;
     virtual void EndComponent() = 0;
 
     virtual void StartPad(const std::string &name) =  0;
