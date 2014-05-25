@@ -1,5 +1,6 @@
 /* -*- c++ -*-
  * (c) h.zeller@acm.org. Free Software. GNU Public License v3.0 and above
+ * rpt2pnp fork to be blamed on jake@spaz.org, also Free Software / GPL
  */
 
 #include <assert.h>
